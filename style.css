@@ -10,7 +10,7 @@ body, h1, h2, h3, p, ul, li {
   }
   
   header {
-    background: pink;
+    background-color: pink;
     color: black;
     padding: 20px;
   }
